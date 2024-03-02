@@ -1,2 +1,2 @@
 #OOP-Projact
-input("ชื่อหนัง")
+-input("ชื่อหนัง")
